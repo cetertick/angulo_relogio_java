@@ -1,6 +1,6 @@
 # Angulo Relogio (JAVA)
 
-Este arequivo escrito em Java mostra o angulo entre os ponteiros do relogio.
+Este arquivo escrito em Java mostra o angulo entre os ponteiros do relogio.
 
 Para usar, basta trocar a hora e o minuto no system.out...
 
